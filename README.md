@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Abhishek From Pune .
-- 👀 I’m interested in Coding.
-- 🌱 I’m Have Complete C Program , DSA USING C and HTML..AND Java in progress
-- 
-- 💞️ I’m looking to collaborate on ...
-  
+I am A Software engineer Student .
   
 
 <!---
