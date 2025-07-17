@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Abhi5766
+- 👋 Hi, I’m Abhishek From Pune .
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning C Programming .
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+  
 
 <!---
 Abhi5766/Abhi5766 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
